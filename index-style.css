@@ -1,0 +1,28 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.intro{
+    display: flex;
+    justify-content: center;
+}
+.ins{
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    padding: 10px 20px;
+    border: 1px solid brown;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: whitesmoke;
+    background-color: coral;   
+}
